@@ -1,6 +1,6 @@
 {
   "name": "live-event",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Live event binding in the DOM using plain JavaScript.",
   "main": "index.js",
   "scripts": {
