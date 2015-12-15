@@ -1,0 +1,21 @@
+{
+  "name": "live-event",
+  "version": "1.0.0",
+  "description": "Live event binding in the DOM using plain JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "live-event"
+  },
+  "keywords": [
+    "live",
+    "event",
+    "dom",
+    "binding"
+  ],
+  "author": "Philipp Gfeller <philipp.gfeller@maxomedia.ch>",
+  "license": "MIT"
+}
